@@ -23,6 +23,20 @@
               },
               {
                 "type": "link",
+                "addDate": 1794649832667,
+                "title": "TRAE - Ship Faster With TRAE（智能无限，协作无间）",
+                "icon": "https://logo.clearbit.com/www.trae.cn",
+                "url": "https://www.trae.cn/agent?utm_source=trae_homepage_semwork&utm_medium=solo_web_link&mode=code"
+              },
+              {
+                "type": "link",
+                "addDate": 1794649844561,
+                "title": "Kimi AI 官网：K3.1 Pro 上线，编程与智能体任务全面升级",
+                "icon": "https://logo.clearbit.com/www.kimi.com",
+                "url": "https://www.kimi.com/?chat_enter_method=new_chat"
+              },
+              {
+                "type": "link",
                 "addDate": 1791416878403,
                 "title": "DeepSeek | 深度求索",
                 "icon": "https://logo.clearbit.com/www.deepseek.com",
@@ -41,6 +55,13 @@
                 "title": "豆包 - 字节跳动旗下 AI 智能助手",
                 "icon": "https://logo.clearbit.com/www.doubao.com",
                 "url": "https://www.doubao.com/chat/?channel"
+              },
+              {
+                "type": "link",
+                "addDate": 1794649884099,
+                "title": "硅基流动统一登录",
+                "icon": "https://logo.clearbit.com/account.siliconflow.cn",
+                "url": "https://account.siliconflow.cn/zh/login"
               },
               {
                 "type": "link",
@@ -608,27 +629,27 @@
                     "url": "https://greasyfork.org/zh-CN"
                   }
                 ]
-              }
-            ]
-          },
-          {
-            "type": "folder",
-            "addDate": 1757417659407,
-            "title": "下载",
-            "children": [
-              {
-                "type": "link",
-                "addDate": 1741578251918,
-                "title": "免费视频下载_哔哩哔哩B站视频下载_抖音无水印视频下载_YouTube油管视频下载-GreenVideo视频下载",
-                "icon": "https://logo.clearbit.com/greenvideo.cc",
-                "url": "https://greenvideo.cc/"
               },
               {
-                "type": "link",
-                "addDate": 1794575816298,
-                "title": "小天在线工具 - 万能视频下载器 免费短视频无水印解析网址",
-                "icon": "https://logo.clearbit.com/www.xtdowner.com",
-                "url": "https://www.xtdowner.com/?utm_source=xtonner_back"
+                "type": "folder",
+                "addDate": 1757417659407,
+                "title": "下载",
+                "children": [
+                  {
+                    "type": "link",
+                    "addDate": 1741578251918,
+                    "title": "免费视频下载_哔哩哔哩B站视频下载_抖音无水印视频下载_YouTube油管视频下载-GreenVideo视频下载",
+                    "icon": "https://logo.clearbit.com/greenvideo.cc",
+                    "url": "https://greenvideo.cc/"
+                  },
+                  {
+                    "type": "link",
+                    "addDate": 1794575816298,
+                    "title": "小天在线工具 - 万能视频下载器 免费短视频无水印解析网址",
+                    "icon": "https://logo.clearbit.com/www.xtdowner.com",
+                    "url": "https://www.xtdowner.com/?utm_source=xtonner_back"
+                  }
+                ]
               }
             ]
           },
